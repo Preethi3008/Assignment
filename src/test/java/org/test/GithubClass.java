@@ -4,7 +4,7 @@ public class GithubClass {
 
 	public static void main(String[] args) {
 	
-		int a = 50;
+		int a = 51;
 		int b = 44;
 		System.out.println(a + b);
 		
